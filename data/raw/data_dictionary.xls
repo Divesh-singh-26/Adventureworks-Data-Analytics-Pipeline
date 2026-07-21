@@ -1,0 +1,22 @@
+Column Name	Data Type (MySQL)	Description	Example	Nullable	Business Use		
+CustomerKey	INT	Unique identifier for each customer. Used to join with the Sales table.	11000	No	Identify each customer and link to sales		
+Prefix	VARCHAR(10)	"Customer's title (Mr., Mrs., Ms., Dr., etc.)"	Mr.	Yes	Customer demographics		
+FirstName	VARCHAR(50)	Customer's first name	John	No	Customer identification		
+LastName	VARCHAR(50)	Customer's last name	Smith	No	Customer identification		
+BirthDate	DATE	Customer's date of birth	7/20/1985	Yes	Calculate customer age and age groups		
+MaritalStatus	CHAR(1)	"Marital status (M = Married, S = Single)"	M	Yes	Customer segmentation		
+Gender	CHAR(1)	"Customer gender (M = Male, F = Female)"	F	Yes	Gender-based analysis		
+EmailAddress	VARCHAR(100)	Customer's email address	john@gmail.com	Yes	Customer communication (not used in reporting)		
+AnnualIncome	"DECIMAL(10,2)"	Customer's annual income	75000	Yes	Income-based customer segmentation		
+TotalChildren	INT	Number of children	2	Yes	Family demographic analysis		
+EducationLevel	VARCHAR(50)	Highest education level	Bachelors	Yes	Education-based customer insights		
+Occupation	VARCHAR(50)	Customer occupation	Professional	Yes	Occupation-based sales analysis		
+HomeOwner	VARCHAR(10)	Indicates if the customer owns a home (Yes/No)	Yes	Yes	Lifestyle segmentation		
+							
+							
+							
+							
+							
+							
+							
+							
