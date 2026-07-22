@@ -165,7 +165,7 @@ The dashboard contains five interactive report pages:
 
 ## Executive Dashboard
 
-![Executive Dashboard](./Dashboard%20images/Executive%20Dashboard.PNG
+![Executive Dashboard](./Dashboard%20images/Executive%20Dashboard.PNG)
 
 ---
 
