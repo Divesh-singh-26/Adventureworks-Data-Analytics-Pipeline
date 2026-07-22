@@ -288,31 +288,31 @@ Business Insights
 
 ## Executive Dashboard
 
-![Executive Dashboard](Dashboard images/Executive Dashboard.png)
+![Executive Dashboard](./Dashboard%20images/Executive%20Dashboard.PNG)
 
 ---
 
 ## Sales Dashboard
 
-![Sales Dashboard](Dashboard images/Sales Analysis Dashboard.png)
+![Sales Analysis Dashboard](./Dashboard%20images/Sales%20Analysis%20Dashboard.PNG)
 
 ---
 
 ## Customer Dashboard
 
-![Customer Dashboard](Dashboard images/Customer Analysis Dashboard.png)
+![Customer Analysis Dashboard](./Dashboard%20images/Customer%20Analysis%20Dashboard.PNG)
 
 ---
 
 ## Product & Geographic Dashboard
 
-![Product & Geographic Dashboard](Dashboard images/Product & Geographic Analysis Dashboard.png)
+![Product & Geographic Dashboard](./Dashboard%20images/Product%20%26%20Geographic%20Analysis%20Dashboard.PNG)
 
 ---
 
 ## Returns Dashboard
 
-![Returns Dashboard](Dashboard images/Return Analysis Dashboard.png)
+![Return Analysis Dashboard](./Dashboard%20images/Return%20Analysis%20Dashboard.PNG)
 ```
 
 
