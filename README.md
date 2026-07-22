@@ -183,7 +183,7 @@ The dashboard contains five interactive report pages:
 
 ## Product & Geographic Dashboard
 
-![Product & Geographic Dashboard](Dashboard images/Product & Geographic Analysis Dashboard.png)
+![Product & Geographic Dashboard](dashboard-images/product-geographic-dashboard.png)
 
 ---
 
