@@ -165,19 +165,19 @@ The dashboard contains five interactive report pages:
 
 ## Executive Dashboard
 
-![Executive Dashboard](./dashboard-images/executive-dashboard.png)
+![Executive Dashboard](./Dashboard%20images/Executive%20Dashboard.png)
 
 ---
 
 ## Sales Dashboard
 
-![Sales Dashboard](Dashboard images/Sales Analysis Dashboard.png)
+![Sales Analysis Dashboard](./Dashboard%20images/Sales%20Analysis%20Dashboard.png)
 
 ---
 
 ## Customer Dashboard
 
-![Customer Dashboard](Dashboard images/Customer Analysis Dashboard.png)
+![Customer Analysis Dashboard](./Dashboard%20images/Customer%20Analysis%20Dashboard.png)
 
 ---
 
@@ -189,7 +189,7 @@ The dashboard contains five interactive report pages:
 
 ## Returns Dashboard
 
-![Returns Dashboard](Dashboard images/Return Analysis Dashboard.png)
+![Return Analysis Dashboard](./Dashboard%20images/Return%20Analysis%20Dashboard.PNG)
 ```
 
 
